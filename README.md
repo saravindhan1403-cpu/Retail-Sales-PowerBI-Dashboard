@@ -35,6 +35,3 @@ The dashboard provides insights into:
 
 
 ---
-
-Created by Aravindhan S
-Aspiring Data Analyst | Power BI Developer
